@@ -65,3 +65,4 @@ so basically , after 8 in decimal , octal uses its available numbers and moves f
 uses numbers from 0 to 9 and "A" till "F"
 base 16 
 10<sub>10</sub> = A<sub>16</sub>
+Summaaa
